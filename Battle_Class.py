@@ -9,8 +9,8 @@
 # C0B21087 Kota Sugai
 ###
 
-import Re_Character_Class as character
-import Re_Enemy_Class as enemy
+import Character_Class as character
+import Enemy_Class as enemy
 from time import *
 import numpy as np
 import pygame as pg

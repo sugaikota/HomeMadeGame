@@ -4,7 +4,7 @@
 # This code was created by Kota Sugai.
 ###
 
-from Re_Character_Class import *
+from Character_Class import *
 from typing import Union
 import numpy as np
 
